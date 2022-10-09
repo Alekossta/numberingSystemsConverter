@@ -1,0 +1,16 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-bottom: 1.25rem;
+}
+
+.label {
+  text-align: start;
+  font-size: 2em;
+}
+
+.input {
+  height: 2rem;
+  font-size: 1.5em;
+}
